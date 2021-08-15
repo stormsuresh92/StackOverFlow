@@ -1,4 +1,3 @@
-from requests.sessions import session
 from requests_html import HTMLSession
 import pandas as pd
 
